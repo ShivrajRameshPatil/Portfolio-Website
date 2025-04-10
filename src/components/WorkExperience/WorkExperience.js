@@ -50,7 +50,7 @@ function WorkExperience() {
                             title="Data Science Intern"
                             company="AlgoAnalytics"
                             duration="05/2021 - 12/2021"
-                            description={"As a Data Science Intern at AlgoAnalytics, I led data architecture for a petabyte-scale project using Spark, Databricks, and AWS S3, improving efficiency. I automated S3 archiving, reducing storage costs by 95%, and developed Azure Databricks validation for 10+ pipelines, cutting issue detection time by 70%. I also built monitoring dashboards in Snowflake and Tableau and optimized SQL queries to reduce execution time and pipeline latency."}
+                            description={"As a Data Engineer Intern at AlgoAnalytics, I led data architecture for a petabyte-scale project using Spark, Databricks, and AWS S3, improving efficiency. I automated S3 archiving, reducing storage costs by 95%, and developed Azure Databricks validation for 10+ pipelines, cutting issue detection time by 70%. I also built monitoring dashboards in Snowflake and Tableau and optimized SQL queries to reduce execution time and pipeline latency."}
                         />
                     </Col>
                 </Row>
