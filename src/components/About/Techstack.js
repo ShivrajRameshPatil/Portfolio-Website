@@ -24,8 +24,8 @@ import { SiTerraform, SiAnsible } from "react-icons/si";
 // Web
 import { SiHtml5, SiCss3, SiJavascript } from "react-icons/si";
 
-// AI / GenAI
-import { SiOpenai, SiHuggingface, SiLangchain } from "react-icons/si";
+// Gen AI
+import { SiOpenai, SiLangchain } from "react-icons/si";
 
 function Techstack() {
   return (
@@ -57,7 +57,6 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons"><SiPytorch /></Col>
 
       <Col xs={4} md={2} className="tech-icons"><SiOpenai /></Col>
-      <Col xs={4} md={2} className="tech-icons"><SiHuggingface /></Col>
       <Col xs={4} md={2} className="tech-icons"><SiLangchain /></Col>
 
       <Col xs={4} md={2} className="tech-icons"><SiHtml5 /></Col>
