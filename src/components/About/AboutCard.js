@@ -11,9 +11,9 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Shivraj Patil </span>
             from <span className="purple"> Toronto, Canada.</span>
             <br />
-            I have previously worked as a Data Analyst and as a Security Analytics Intern at Intact Financial Corporation, where I contributed to data-driven insights and reporting solutions. Also worked at Paytm, AlgoAnalytics, and Canspirit AI.
+            I am currently working as a Data Analyst at Tata Consultancy Services (Client: Manulife), where I build scalable data pipelines, business intelligence solutions, and AI-driven analytics to generate actionable insights. I have also worked at Intact Financial Corporation, Paytm, AlgoAnalytics, and Canspirit AI.
             <br />
-            I have completed Master of Engineering (M.Eng) in Information Systems from Concordia University, where I applied data analytics techniques to solve complex problems, leveraging data modeling and analysis to optimize systems and processes.
+            I have completed Master of Engineering (M.Eng) in Information Systems from Concordia University, where I applied data engineering, analytics, and AI techniques to solve complex problems, leveraging data modeling and advanced analysis to optimize systems and processes.
             <br />
             <br />
             Apart from my professional work, here are some activities I love to engage in:
