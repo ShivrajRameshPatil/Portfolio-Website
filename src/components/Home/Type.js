@@ -8,9 +8,9 @@ function Type() {
         strings: [
           "Data Analyst",
           "BI Analyst",
-          "Power BI Developer",
-          "Tableau Developer",
           "Data Engineer",
+          "AI Analyst",
+          "Data Scientist",
         ],
         autoStart: true,
         loop: true,
