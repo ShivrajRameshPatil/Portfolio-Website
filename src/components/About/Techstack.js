@@ -18,19 +18,19 @@ import { SiApachespark, SiApachehadoop, SiApacheairflow } from "react-icons/si";
 // Cloud
 import { SiAmazonaws, SiMicrosoftazure, SiGooglecloud } from "react-icons/si";
 
-// Dev / Infra
+// DevOps / Infra
 import { SiTerraform, SiAnsible } from "react-icons/si";
 
 // Web
 import { SiHtml5, SiCss3, SiJavascript } from "react-icons/si";
 
-// AI / Gen AI
-import { SiOpenai, SiAnthropic, SiHuggingface, SiLangchain } from "react-icons/si";
+// AI / GenAI
+import { SiOpenai, SiHuggingface, SiLangchain } from "react-icons/si";
 
 function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
-      
+
       <Col xs={4} md={2} className="tech-icons"><SiPython /></Col>
       <Col xs={4} md={2} className="tech-icons"><DiJava /></Col>
 
@@ -57,7 +57,6 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons"><SiPytorch /></Col>
 
       <Col xs={4} md={2} className="tech-icons"><SiOpenai /></Col>
-      <Col xs={4} md={2} className="tech-icons"><SiAnthropic /></Col>
       <Col xs={4} md={2} className="tech-icons"><SiHuggingface /></Col>
       <Col xs={4} md={2} className="tech-icons"><SiLangchain /></Col>
 
