@@ -15,6 +15,16 @@ function WorkExperience() {
                     Here are the roles I've had, along with my contributions and responsibilities.
                 </p>
                 <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+                    {/* TCS Experience */}
+                    <Col md={4} className="project-card">
+                        <ExperienceCards
+                            title="Data Analyst"
+                            company="Tata Consultancy Services (Client: Manulife)"
+                            duration="06/2025 - Present"
+                            description={"As a Data Analyst at Tata Consultancy Services supporting Manulife, I performed data profiling, validation, and root cause analysis using PySpark and SQL in Azure Databricks, improving VOICE dataset quality and reliability by 35%. I engineered the VOICE Power BI dashboard by integrating calls, chats, and survey data while leveraging Generative AI for text summarization, topic extraction, and sentiment analysis to enhance customer insights. Additionally, I developed automated data pipelines from the CAR data lake and collaborated with Salesforce and Amazon Connect teams to resolve production data issues and improve data reliability."}
+                        />
+                    </Col>
+
                     {/* Intact Experience */}
                     <Col md={4} className="project-card">
                         <ExperienceCards
