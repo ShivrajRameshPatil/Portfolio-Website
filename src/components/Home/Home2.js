@@ -20,19 +20,20 @@ function Home2() {
             {/* Experienced software developer with a focus in backend development, building server-side applications. Currently working at
 SAP Labs transforming requirements into efficient solutions. Previously worked in Mckinsey & Company */}
             <p className="home-about-body">
-              I'm Shivraj Patil, a data enthusiast passionate about uncovering insights and creating impactful data-driven solutions.
-              I love to solve complex problems and am highly inclined towards mathematical thinking.
+              I'm Shivraj Patil, a data and AI professional passionate about building intelligent data systems and 
+              transforming complex datasets into actionable business insights. I enjoy solving complex problems using 
+              data engineering, analytics, and AI.
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> Python, SAS, SQL, Power BI, Tableau, Databricks, and Snowflake. </b>
+                <b className="purple"> Python, SQL, Databricks, Power BI, and Gen AI Technologies. </b>
               </i>
               <br />
 
               <br />
-              I specialize in delivering business intelligence solutions and
+              I specialize in building
               <i>
-                <b className="purple"> building scalable data systems </b> to drive informed decision-making.
+                <b className="purple"> scalable data pipelines, business intelligence platforms, and AI driven solutions </b> to drive informed decision-making.
 
               </i>
               <br />
@@ -41,7 +42,7 @@ SAP Labs transforming requirements into efficient solutions. Previously worked i
               <i>
                 <b className="purple">
                   {" "}
-                  data analytics workflows 
+                  data and AI workflows 
                 </b>
               </i>
               <i> to ensure scalable, and efficient data processing. </i>
